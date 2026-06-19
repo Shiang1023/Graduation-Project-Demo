@@ -69,7 +69,7 @@
 歡迎觀看我們的實際操作與成果展示影片：
 
 <a href="https://www.youtube.com/watch?v=Ki3aVb2vbBc" target="_blank">
-  <img src="https://img.youtube.com/vi/Ki3aVb2vbBc/maxresdefault.jpg" alt="Watch the video" width="600" style="max-width: 100%;">
+  <img src="https://img.youtube.com/vi/Ki3aVb2vbBc/maxresdefault.jpg" alt="Watch the video" width="1594" height="897" style="max-width: 100%;">
 </a>
 
 
