@@ -1,6 +1,6 @@
 # 🩺 半監督式肝腫瘤圈選輔助與全自動化肝腫瘤辨識系統
 
-一款結合**半監督式學習（Semi-Supervised Learning）**與**全自動深度學習（Full-Automation）**的醫療影像 AI 系統，旨在輔助放射科醫師更高效、精準地進行 CT 影像中的肝腫瘤辨識與圈選。
+一款結合半監督式學習（Semi-Supervised Learning）與全自動深度學習（Full-Automation）**的醫療影像 AI 系統，旨在輔助放射科醫師更高效、精準地進行 CT 影像中的肝腫瘤辨識與圈選。
 
 ## 👥 團隊成員 (Team Members)
 * 吳嘉尉、邱柏驊、歐冠廷、王泓翔
