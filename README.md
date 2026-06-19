@@ -58,8 +58,8 @@
 2. **新舊技術對比**：本專案提出的改良算法（Proposed）相較於對照組（Compared），在維持高精準度的同時，大幅提升了召喚率（Recall）。
 
 <p align="center">
-  <img src="images/result_chart1.png" width="450" alt="半監督與非監督結果比較">
-  <img src="images/result_chart2.png" width="350" alt="新舊技術比較">
+  <img width="1596" height="896" alt="image" src="https://github.com/user-attachments/assets/1385f322-85a7-410a-9b52-ba65dc1c73fe" />
+  <img width="1594" height="897" alt="image" src="https://github.com/user-attachments/assets/f7e77505-3577-4de0-be1e-0e763a73b039" />
 </p>
 
 ---
